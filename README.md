@@ -58,7 +58,7 @@ ________________________________________________________________________________
   Add Month column as Slicer and add some informative KPI.
   Add Bar chart, Pie chart, Column chart, Cards, Matrix chart, Donut chart etc
 
-# Here are a few snapshots from the HR Analytics Dashboard:
+# Snapshots from the HR Analytics Dashboard:
  ![Screenshot 2024-11-06 220509](https://github.com/user-attachments/assets/0be9df6c-51de-40de-b597-28b35a76e61e)
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
